@@ -24,7 +24,7 @@ function BoterTheoGijs(){
     $("#vak1").click(function(){ i=1
         if (VakWaardes[i]==0){
             if (GofT == 0){
-            $(this).css("background-image", "url(img/Theo.png)");
+            $(this).css("background-image", "url(img/theo.png)");
                 VakWaardes[i]=1;
             }
             if (GofT == 1){
@@ -40,7 +40,7 @@ function BoterTheoGijs(){
     $("#vak2").click(function(){ i=2
         if (VakWaardes[i]==0){
             if (GofT == 0){
-            $(this).css("background-image", "url(img/Theo.png)");
+            $(this).css("background-image", "url(img/theo.png)");
                 VakWaardes[i]=1;
             }
             if (GofT == 1){
@@ -56,7 +56,7 @@ function BoterTheoGijs(){
     $("#vak3").click(function(){ i=3
         if (VakWaardes[i]==0){
             if (GofT == 0){
-            $(this).css("background-image", "url(img/Theo.png)");
+            $(this).css("background-image", "url(img/theo.png)");
                 VakWaardes[i]=1;
             }
             if (GofT == 1){
@@ -72,7 +72,7 @@ function BoterTheoGijs(){
     $("#vak4").click(function(){ i=4
         if (VakWaardes[i]==0){
             if (GofT == 0){
-            $(this).css("background-image", "url(img/Theo.png)");
+            $(this).css("background-image", "url(img/theo.png)");
                 VakWaardes[i]=1;
             }
             if (GofT == 1){
@@ -88,7 +88,7 @@ function BoterTheoGijs(){
     $("#vak5").click(function(){ i=5
         if (VakWaardes[i]==0){
             if (GofT == 0){
-            $(this).css("background-image", "url(img/Theo.png)");
+            $(this).css("background-image", "url(img/theo.png)");
                 VakWaardes[i]=1;
             }
             if (GofT == 1){
@@ -104,7 +104,7 @@ function BoterTheoGijs(){
     $("#vak6").click(function(){ i=6
         if (VakWaardes[i]==0){
             if (GofT == 0){
-            $(this).css("background-image", "url(img/Theo.png)");
+            $(this).css("background-image", "url(img/theo.png)");
                 VakWaardes[i]=1;
             }
             if (GofT == 1){
@@ -120,7 +120,7 @@ function BoterTheoGijs(){
     $("#vak7").click(function(){ i=7
         if (VakWaardes[i]==0){
             if (GofT == 0){
-            $(this).css("background-image", "url(img/Theo.png)");
+            $(this).css("background-image", "url(img/theo.png)");
                 VakWaardes[i]=1;
             }
             if (GofT == 1){
@@ -136,7 +136,7 @@ function BoterTheoGijs(){
     $("#vak8").click(function(){ i=8
         if (VakWaardes[i]==0){
             if (GofT == 0){
-            $(this).css("background-image", "url(img/Theo.png)");
+            $(this).css("background-image", "url(img/theo.png)");
                 VakWaardes[i]=1;
             }
             if (GofT == 1){
@@ -152,7 +152,7 @@ function BoterTheoGijs(){
     $("#vak9").click(function(){ i=9
         if (VakWaardes[i]==0){
             if (GofT == 0){
-            $(this).css("background-image", "url(img/Theo.png)");
+            $(this).css("background-image", "url(img/theo.png)");
                 VakWaardes[i]=1;
             }
             if (GofT == 1){
