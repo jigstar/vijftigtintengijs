@@ -24,7 +24,7 @@ function BoterTheoGijs(){
     $("#vak1").click(function(){ i=1
         if (VakWaardes[i]==0){
             if (GofT == 0){
-            $(this).css("background-image", "url(img/theo.png)");
+            $(this).css("background-image", "url(img/Theo.png)");
                 VakWaardes[i]=1;
             }
             if (GofT == 1){
